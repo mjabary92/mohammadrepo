@@ -1,1 +1,1 @@
-Test Git Quick Strart demo
+Test git Quick Strart demo
